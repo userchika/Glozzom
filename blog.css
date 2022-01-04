@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* about_image */
+.about_image{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_image {
+    height: 200px;
+    background-image: url('https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736877_1280.jpg');
+    background-attachment: fixed;
+    color: white;
+}
+
+
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+}
+.footer_content{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer h4 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h4{
+    
+}
